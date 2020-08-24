@@ -3,18 +3,18 @@
         "name": "mybgg",
         "show_previous_players": true,
         "show_total_plays": true,
-        "title": "Epic Game Night!",
+        "title": "Epic Game Night!"
     },
     "boardgamegeek": {
         "user_name": "caliban_avenged",
         "extra_params": {
-            "own": 1,
+            "own": 1
         }
     },
     "algolia": {
         "app_id": "7VFU9C7SX8",
         "api_key_search_only": "f19b93f05aa94c275fd17cd9b3e2f4e1",
         "index_name": "mybgg",
-        "hits_per_page": 60,
+        "hits_per_page": 60
     }
 }
